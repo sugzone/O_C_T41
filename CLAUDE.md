@@ -1,5 +1,7 @@
 # 4U Loudest Warning port: working notes
 
+**Git: the user makes all commits in this repo. Don't commit, push, or suggest commits.**
+
 ## Goal
 Adapt O_C_T41 (Eurorack) to the 4U Loudest Warning format with a **3" NPW** front panel.
 - Refs: https://github.com/PaulStoffregen/O_C_T41 · http://www.loudestwarning.co.uk/portfolio/4u-modular-specs/ · https://github.com/mixelpixx/Konnect
